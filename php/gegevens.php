@@ -12,7 +12,7 @@
 <body>
     
     <div class="navbar">
-        <a href="../index.php">HomePages</a>
+        <a href="../index.php">HomePage</a>
         <a href="ProductPage.php">Producten</a>
         <a href="winkelwagentje.php">Winkelwagentje</a>
     </div>
